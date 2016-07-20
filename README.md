@@ -1,5 +1,5 @@
 # FE-MAS1000
-Software que permite manipular la carga y descaga de parametros del control de soldadura FE-MAS
+Software que permite manipular la carga y descarga de parametros del control de soldadura FE-MAS
 
 #Seccion Descargas
 
@@ -8,3 +8,5 @@ Software que permite manipular la carga y descaga de parametros del control de s
 - ##Linux
 
 - ##MAC
+
+
