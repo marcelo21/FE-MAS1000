@@ -9,8 +9,6 @@ Software que permite manipular la carga y descarga de parametros del control de 
 
 #Archivos necesarios para windows
 
-- Visual c++
-- NET framework 3.5
-- SQL
+- Visual c++ no se cuanto??
 
 
