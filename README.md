@@ -9,6 +9,6 @@ Software que permite manipular la carga y descarga de parametros del control de 
 
 #Archivos necesarios para windows
 
-- Visual c++ no se cuanto??
+- Visual c++, version??
 
 
