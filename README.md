@@ -4,11 +4,10 @@ Software que permite manipular la carga y descarga de parametros del control de 
 #Seccion Descargas
 
 - Windows 
-- Linux
-- MAC
+- Linux 
+- MAC    
 
 #Archivos necesarios para windows
 
-- Visual c++, version??
-
+- Visual c++
 
