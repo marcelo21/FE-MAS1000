@@ -7,7 +7,3 @@ Software que permite manipular la carga y descarga de parametros del control de 
 - Linux 
 - MAC    
 
-#Archivos necesarios para windows
-
-- Visual c++
-
