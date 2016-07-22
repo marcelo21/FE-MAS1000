@@ -3,7 +3,7 @@ Software que permite manipular la carga y descarga de parametros del control de 
 
 #Seccion Descargas
 
-- Windows 10, 8.1, 8, 7, XP
+- Windows 
 - Linux
 - MAC
 
