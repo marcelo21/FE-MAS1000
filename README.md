@@ -1,7 +1,3 @@
 # FE-MAS1000
-Software que permite manipular la carga y descarga de parametros del control de soldadura FE-MAS
-
-#Seccion Descargas
-
-- Windows
+Es un software de libre distribucion que permite manipular en su totalidad al control de soldadura.
 
